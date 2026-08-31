@@ -1,0 +1,3 @@
+# Homework 02: Project Setup
+
+This homework practises setting up a reproducible Python data project. I created an isolated Python environment, organized the repository into folders for raw and processed data, notebooks, source code, documentation, reports, and models, configured environment variables securely with python-dotenv, verified the setup in Jupyter Notebook, and recorded the project dependencies in requirements.txt.
