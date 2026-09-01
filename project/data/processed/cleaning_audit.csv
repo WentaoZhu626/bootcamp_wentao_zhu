@@ -1,0 +1,5 @@
+check,raw,cleaned
+rows,5261,5261
+duplicate_dates,0,0
+missing_prices,0,0
+nonpositive_volume,0,0

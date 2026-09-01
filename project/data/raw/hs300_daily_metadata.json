@@ -1,0 +1,14 @@
+{
+  "symbol": "000300",
+  "requested_start": "2005-01-01",
+  "requested_end": "2026-09-01",
+  "actual_start": "2005-01-04",
+  "actual_end": "2026-08-31",
+  "rows": 5261,
+  "source_used": "AkShare Sina index endpoint",
+  "retrieved_at_utc": "2026-09-01T02:51:45.195024+00:00",
+  "fallback_errors": {
+    "yfinance": "RuntimeError: yfinance returned no rows"
+  },
+  "sha256": "c75deb91a6fc4749780228610036e6a6b472ffe3312b2bae09c502ba0798251d"
+}
